@@ -188,6 +188,9 @@ components:
         id: lm8898r0n2esi
       type: object
       description: 'For a given metric, result is a timeseries of that metric with accompanying metadata kjhgfdcx'
+      required:
+        - product
+        - dateAggregation
       properties:
         product:
           type: string
