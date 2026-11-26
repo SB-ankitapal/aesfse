@@ -187,7 +187,7 @@ components:
       x-stoplight:
         id: lm8898r0n2esi
       type: object
-      description: 'For a given metric, result is a timeseries of that metric with accompanying metadata'
+      description: 'For a given metric, result is a timeseries of that metric with accompanying metadata kjhgfdcx'
       properties:
         product:
           type: string
