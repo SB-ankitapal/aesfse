@@ -1,0 +1,9 @@
+title: model
+x-stoplight:
+  id: ufu7nadvz447v
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: cqjuqob6gh53r
